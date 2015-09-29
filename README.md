@@ -9,4 +9,5 @@
 
 # 2) Dictionary occurs twice in Dat9
 
-# 3) I tried to find the number of times orders of only chips occured, aka without a main dish.  My thought process was to limit the code down to orders with only one line via sort and uniq and then pick out chips from that via a grep search.  But then I realized that doing this would only take out other line items in an order and show which orders included chips, not which orders included only chips.  It's something that sounds like an if statement, but I'm not sure how to do it in the command line.
+# 3) 
+*I tried to find the number of times orders of only chips occured, aka without a main dish.  My thought process was to limit the code down to orders with only one line via sort and uniq and then pick out chips from that via a grep search.  But then I realized that doing this would only take out other line items in an order and show which orders included chips, not which orders included only chips.  It's something that sounds like an if statement, but I'm not sure how to do it in the command line.
